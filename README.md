@@ -27,7 +27,7 @@ docker images
 docker history my_alpine:v12
 
 ## Se connecter au compte Docker_hub
-docker login -u chabane7 -p Kouiza07071993
+docker login -u  -p 
 ## tager l'image qu'on va exporter sur le compte docker-hub en myalpino:v12
 docker image tag my_alpine:v12 chabane7/myalpino:v12
 ## pusher l'image sur docker hub
