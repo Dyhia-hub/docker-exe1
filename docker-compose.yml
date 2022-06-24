@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  myalpesv12:
+      hostname: dyhia_d
+      image: 14101994/myalpinev12:latest
+
+
+
+
